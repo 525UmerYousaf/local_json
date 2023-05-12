@@ -1,0 +1,1350 @@
+{
+    "totalProducts": "7153",
+    "category": "aps",
+    "result": [
+        {
+            "position": {
+                "page": 1,
+                "position": 1,
+                "global_position": 1
+            },
+            "asin": "B072N21PRR",
+            "price": {
+                "discounted": true,
+                "current_price": 55.73,
+                "currency": "USD",
+                "before_price": 60,
+                "savings_amount": 4.27,
+                "savings_percent": 7.12
+            },
+            "reviews": {
+                "total_reviews": 10421,
+                "rating": 4.5
+            },
+            "url": "https://www.amazon.com/dp/B072N21PRR",
+            "score": "46894.50",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "PUMA Unisex-Adult Smash v2 NBK Sneaker",
+            "thumbnail": "https://m.media-amazon.com/images/I/71TX42gbNzL._AC_UL320_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 2,
+                "global_position": 2
+            },
+            "asin": "B07HJRPD9D",
+            "price": {
+                "discounted": true,
+                "current_price": 43.49,
+                "currency": "USD",
+                "before_price": 65,
+                "savings_amount": 21.51,
+                "savings_percent": 33.09
+            },
+            "reviews": {
+                "total_reviews": 19801,
+                "rating": 4.5
+            },
+            "url": "https://www.amazon.com/dp/B07HJRPD9D",
+            "score": "89104.50",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "PUMA Women’s Carina Sneaker",
+            "thumbnail": "https://m.media-amazon.com/images/I/71u2Muh5O5L._AC_UL320_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 3,
+                "global_position": 3
+            },
+            "asin": "B097KL68N2",
+            "price": {
+                "discounted": true,
+                "current_price": 50,
+                "currency": "USD",
+                "before_price": 75,
+                "savings_amount": 25,
+                "savings_percent": 33.33
+            },
+            "reviews": {
+                "total_reviews": 1036,
+                "rating": 4.5
+            },
+            "url": "https://www.amazon.com/dp/B097KL68N2",
+            "score": "4662.00",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "PUMA Men's Softride Premier Slip on Wide Running Shoe",
+            "thumbnail": "https://m.media-amazon.com/images/I/61128uCxvZL._AC_UL320_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 4,
+                "global_position": 4
+            },
+            "asin": "B08R5XDF8F",
+            "price": {
+                "discounted": false,
+                "current_price": 73.39,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 10088,
+                "rating": 4.6
+            },
+            "url": "https://www.amazon.com/dp/B08R5XDF8F",
+            "score": "46404.80",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "PUMA Select Men's Suede Classic Plus Sneakers",
+            "thumbnail": "https://m.media-amazon.com/images/I/517aD-KgBrL._AC_UL320_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 5,
+                "global_position": 5
+            },
+            "asin": "B01C3LK84G",
+            "price": {
+                "discounted": false,
+                "current_price": 69.95,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 21657,
+                "rating": 4.4
+            },
+            "url": "https://www.amazon.com/dp/B01C3LK84G",
+            "score": "95290.80",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "PUMA Men's Tazon 6 Wide Fracture Sneaker",
+            "thumbnail": "https://m.media-amazon.com/images/I/61DYj1I-K0L.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 6,
+                "global_position": 6
+            },
+            "asin": "B08KL4YJHK",
+            "price": {
+                "discounted": true,
+                "current_price": 54,
+                "currency": "USD",
+                "before_price": 70,
+                "savings_amount": 16,
+                "savings_percent": 22.86
+            },
+            "reviews": {
+                "total_reviews": 1347,
+                "rating": 4.4
+            },
+            "url": "https://www.amazon.com/dp/B08KL4YJHK",
+            "score": "5926.80",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "PUMA Men's Pacer Future Sneaker",
+            "thumbnail": "https://m.media-amazon.com/images/I/71fYe29-lbL.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 7,
+                "global_position": 7
+            },
+            "asin": "B07DTQRWNJ",
+            "price": {
+                "discounted": true,
+                "current_price": 57.62,
+                "currency": "USD",
+                "before_price": 65,
+                "savings_amount": 7.38,
+                "savings_percent": 11.35
+            },
+            "reviews": {
+                "total_reviews": 2609,
+                "rating": 4.4
+            },
+            "url": "https://www.amazon.com/dp/B07DTQRWNJ",
+            "score": "11479.60",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "PUMA Men's Viz Runner Sneaker",
+            "thumbnail": "https://m.media-amazon.com/images/I/71fDJtKqrnL.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 8,
+                "global_position": 8
+            },
+            "asin": "B005OLAKG4",
+            "price": {
+                "discounted": true,
+                "current_price": 53.21,
+                "currency": "USD",
+                "before_price": 70,
+                "savings_amount": 16.79,
+                "savings_percent": 23.99
+            },
+            "reviews": {
+                "total_reviews": 25083,
+                "rating": 4.3
+            },
+            "url": "https://www.amazon.com/dp/B005OLAKG4",
+            "score": "107856.90",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "PUMA Men's Roma Basic Sneaker",
+            "thumbnail": "https://m.media-amazon.com/images/I/61TM6Q9dvxL.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 9,
+                "global_position": 9
+            },
+            "asin": "B08QCPWTXL",
+            "price": {
+                "discounted": true,
+                "current_price": 40.96,
+                "currency": "USD",
+                "before_price": 65,
+                "savings_amount": 24.04,
+                "savings_percent": 36.98
+            },
+            "reviews": {
+                "total_reviews": 306,
+                "rating": 4.6
+            },
+            "url": "https://www.amazon.com/dp/B08QCPWTXL",
+            "score": "1407.60",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "PUMA Men's Clasico Sneaker",
+            "thumbnail": "https://m.media-amazon.com/images/I/719GKfBfvES.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 10,
+                "global_position": 10
+            },
+            "asin": "B07TP4BZWX",
+            "price": {
+                "discounted": true,
+                "current_price": 39.62,
+                "currency": "USD",
+                "before_price": 65,
+                "savings_amount": 25.38,
+                "savings_percent": 39.05
+            },
+            "reviews": {
+                "total_reviews": 4049,
+                "rating": 4.6
+            },
+            "url": "https://www.amazon.com/dp/B07TP4BZWX",
+            "score": "18625.40",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "PUMA Women's Prowl Slip on Sneaker",
+            "thumbnail": "https://m.media-amazon.com/images/I/71sU3Wt25oL.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 11,
+                "global_position": 11
+            },
+            "asin": "B08V1ZRX31",
+            "price": {
+                "discounted": true,
+                "current_price": 17.15,
+                "currency": "USD",
+                "before_price": 25,
+                "savings_amount": 7.85,
+                "savings_percent": 31.4
+            },
+            "reviews": {
+                "total_reviews": 1142,
+                "rating": 4.6
+            },
+            "url": "https://www.amazon.com/dp/B08V1ZRX31",
+            "score": "5253.20",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "PUMA Men's Essential Logo Tee",
+            "thumbnail": "https://m.media-amazon.com/images/I/71vVQUgIYSS.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 12,
+                "global_position": 12
+            },
+            "asin": "B0B6GLZVWP",
+            "price": {
+                "discounted": false,
+                "current_price": 29.95,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 312,
+                "rating": 4.5
+            },
+            "url": "https://www.amazon.com/dp/B0B6GLZVWP",
+            "score": "1404.00",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "PUMA Womens Lily Sling Back Casual Sandals Casual Low Heel 1-2\" - Black",
+            "thumbnail": "https://m.media-amazon.com/images/I/51X88YLQU+L.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 13,
+                "global_position": 13
+            },
+            "asin": "B084F135N4",
+            "price": {
+                "discounted": true,
+                "current_price": 12.87,
+                "currency": "USD",
+                "before_price": 25,
+                "savings_amount": 12.13,
+                "savings_percent": 48.52
+            },
+            "reviews": {
+                "total_reviews": 1897,
+                "rating": 4.3
+            },
+            "url": "https://www.amazon.com/dp/B084F135N4",
+            "score": "8157.10",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "PUMA Women's Essentials Tee (Available in Plus Sizes)",
+            "thumbnail": "https://m.media-amazon.com/images/I/51nYWZzkrdL.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 14,
+                "global_position": 14
+            },
+            "asin": "B07MTFRHV3",
+            "price": {
+                "discounted": true,
+                "current_price": 73.55,
+                "currency": "USD",
+                "before_price": 80,
+                "savings_amount": 6.45,
+                "savings_percent": 8.06
+            },
+            "reviews": {
+                "total_reviews": 13007,
+                "rating": 4.4
+            },
+            "url": "https://www.amazon.com/dp/B07MTFRHV3",
+            "score": "57230.80",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "PUMA Men's Cell Surin 2 Sneaker",
+            "thumbnail": "https://m.media-amazon.com/images/I/617dv87mDQL.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 15,
+                "global_position": 15
+            },
+            "asin": "B083R5YBY5",
+            "price": {
+                "discounted": true,
+                "current_price": 46.93,
+                "currency": "USD",
+                "before_price": 75,
+                "savings_amount": 28.07,
+                "savings_percent": 37.43
+            },
+            "reviews": {
+                "total_reviews": 764,
+                "rating": 4.7
+            },
+            "url": "https://www.amazon.com/dp/B083R5YBY5",
+            "score": "3590.80",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "PUMA Women's Carina Mid Sneaker",
+            "thumbnail": "https://m.media-amazon.com/images/I/71sYEde3FiL.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 16,
+                "global_position": 16
+            },
+            "asin": "B09T1YSLN9",
+            "price": {
+                "discounted": true,
+                "current_price": 70.12,
+                "currency": "USD",
+                "before_price": 80,
+                "savings_amount": 9.88,
+                "savings_percent": 12.35
+            },
+            "reviews": {
+                "total_reviews": 43,
+                "rating": 4.2
+            },
+            "url": "https://www.amazon.com/dp/B09T1YSLN9",
+            "score": "180.60",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "PUMA Women's Future Rider Sneaker",
+            "thumbnail": "https://m.media-amazon.com/images/I/51nheb07Q6L.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 17,
+                "global_position": 17
+            },
+            "asin": "B07TNWS2FT",
+            "price": {
+                "discounted": true,
+                "current_price": 39.93,
+                "currency": "USD",
+                "before_price": 70,
+                "savings_amount": 30.07,
+                "savings_percent": 42.96
+            },
+            "reviews": {
+                "total_reviews": 4605,
+                "rating": 4.5
+            },
+            "url": "https://www.amazon.com/dp/B07TNWS2FT",
+            "score": "20722.50",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "PUMA Men's Enzo 2 Sneaker",
+            "thumbnail": "https://m.media-amazon.com/images/I/81ww+IdgWAL.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 18,
+                "global_position": 18
+            },
+            "asin": "B08KLD5549",
+            "price": {
+                "discounted": true,
+                "current_price": 59.99,
+                "currency": "USD",
+                "before_price": 80,
+                "savings_amount": 20.01,
+                "savings_percent": 25.01
+            },
+            "reviews": {
+                "total_reviews": 14965,
+                "rating": 4.5
+            },
+            "url": "https://www.amazon.com/dp/B08KLD5549",
+            "score": "67342.50",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "PUMA Men's Axelion Spark Sneaker",
+            "thumbnail": "https://m.media-amazon.com/images/I/81feuOVCNsL.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 19,
+                "global_position": 19
+            },
+            "asin": "B07QDVJZQL",
+            "price": {
+                "discounted": true,
+                "current_price": 15.16,
+                "currency": "USD",
+                "before_price": 28,
+                "savings_amount": 12.84,
+                "savings_percent": 45.86
+            },
+            "reviews": {
+                "total_reviews": 4762,
+                "rating": 4.2
+            },
+            "url": "https://www.amazon.com/dp/B07QDVJZQL",
+            "score": "20000.40",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "PUMA Men's 3 Pack Crew Neck T-Shirts",
+            "thumbnail": "https://m.media-amazon.com/images/I/71guukTbgYL.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 20,
+                "global_position": 20
+            },
+            "asin": "B01G3LYZZU",
+            "price": {
+                "discounted": false,
+                "current_price": 69.95,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 32015,
+                "rating": 4.5
+            },
+            "url": "https://www.amazon.com/dp/B01G3LYZZU",
+            "score": "144067.50",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "PUMA Men's Tazon 6 Sneaker",
+            "thumbnail": "https://m.media-amazon.com/images/I/71cuUDCTjEL.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 21,
+                "global_position": 21
+            },
+            "asin": "B08QCFWX44",
+            "price": {
+                "discounted": true,
+                "current_price": 59,
+                "currency": "USD",
+                "before_price": 65,
+                "savings_amount": 6,
+                "savings_percent": 9.23
+            },
+            "reviews": {
+                "total_reviews": 474,
+                "rating": 4.4
+            },
+            "url": "https://www.amazon.com/dp/B08QCFWX44",
+            "score": "2085.60",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "PUMA Men's Pacer Future Slip on Sneaker",
+            "thumbnail": "https://m.media-amazon.com/images/I/717Za0eJnUS.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 22,
+                "global_position": 22
+            },
+            "asin": "B08K4DY291",
+            "price": {
+                "discounted": true,
+                "current_price": 45,
+                "currency": "USD",
+                "before_price": 65,
+                "savings_amount": 20,
+                "savings_percent": 30.77
+            },
+            "reviews": {
+                "total_reviews": 3791,
+                "rating": 4.5
+            },
+            "url": "https://www.amazon.com/dp/B08K4DY291",
+            "score": "17059.50",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "PUMA Women's Softride Sophia Running Shoe",
+            "thumbnail": "https://m.media-amazon.com/images/I/71h2xNX8EiS.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 23,
+                "global_position": 23
+            },
+            "asin": "B08WCLK3Y6",
+            "price": {
+                "discounted": false,
+                "current_price": 28,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 10803,
+                "rating": 4.5
+            },
+            "url": "https://www.amazon.com/dp/B08WCLK3Y6",
+            "score": "48613.50",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "PUMA Men's 3 Pack Performance Boxer Briefs",
+            "thumbnail": "https://m.media-amazon.com/images/I/81iV0I0H4yL.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 24,
+                "global_position": 24
+            },
+            "asin": "B09MZ2YHT9",
+            "price": {
+                "discounted": true,
+                "current_price": 101.97,
+                "currency": "USD",
+                "before_price": 114.95,
+                "savings_amount": 12.98,
+                "savings_percent": 11.29
+            },
+            "reviews": {
+                "total_reviews": 235,
+                "rating": 4.6
+            },
+            "url": "https://www.amazon.com/dp/B09MZ2YHT9",
+            "score": "1081.00",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "PUMA Men's Proadapt Alphacat Golf Shoe",
+            "thumbnail": "https://m.media-amazon.com/images/I/61+tUzB8HsL.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 25,
+                "global_position": 25
+            },
+            "asin": "B09S2DL7X6",
+            "price": {
+                "discounted": true,
+                "current_price": 39.95,
+                "currency": "USD",
+                "before_price": 70,
+                "savings_amount": 30.05,
+                "savings_percent": 42.93
+            },
+            "reviews": {
+                "total_reviews": 70,
+                "rating": 4.5
+            },
+            "url": "https://www.amazon.com/dp/B09S2DL7X6",
+            "score": "315.00",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "PUMA Men's Twitch Runner Trail Sneaker",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MLDoxWIRL.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 26,
+                "global_position": 26
+            },
+            "asin": "B083R61JDJ",
+            "price": {
+                "discounted": false,
+                "current_price": 63.99,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 1407,
+                "rating": 4.5
+            },
+            "url": "https://www.amazon.com/dp/B083R61JDJ",
+            "score": "6331.50",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "PUMA Women's Smash Platform V2 Sneaker",
+            "thumbnail": "https://m.media-amazon.com/images/I/618gnOSbptL.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 27,
+                "global_position": 27
+            },
+            "asin": "B08CS48MWJ",
+            "price": {
+                "discounted": true,
+                "current_price": 67.93,
+                "currency": "USD",
+                "before_price": 85,
+                "savings_amount": 17.07,
+                "savings_percent": 20.08
+            },
+            "reviews": {
+                "total_reviews": 8671,
+                "rating": 4.4
+            },
+            "url": "https://www.amazon.com/dp/B08CS48MWJ",
+            "score": "38152.40",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "PUMA Women's Blur Running Shoes",
+            "thumbnail": "https://m.media-amazon.com/images/I/71xX+mHmkUL.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 28,
+                "global_position": 28
+            },
+            "asin": "B08QCFJR5X",
+            "price": {
+                "discounted": true,
+                "current_price": 57.7,
+                "currency": "USD",
+                "before_price": 65,
+                "savings_amount": 7.3,
+                "savings_percent": 11.23
+            },
+            "reviews": {
+                "total_reviews": 877,
+                "rating": 4.6
+            },
+            "url": "https://www.amazon.com/dp/B08QCFJR5X",
+            "score": "4034.20",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "PUMA Women's Softride Rift Slip on Running Shoe",
+            "thumbnail": "https://m.media-amazon.com/images/I/71ZkEAUSaYS.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 29,
+                "global_position": 29
+            },
+            "asin": "B097LVVCN3",
+            "price": {
+                "discounted": true,
+                "current_price": 53.14,
+                "currency": "USD",
+                "before_price": 70,
+                "savings_amount": 16.86,
+                "savings_percent": 24.09
+            },
+            "reviews": {
+                "total_reviews": 211,
+                "rating": 4.4
+            },
+            "url": "https://www.amazon.com/dp/B097LVVCN3",
+            "score": "928.40",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "PUMA Women's Pacer Future Allure Sneaker",
+            "thumbnail": "https://m.media-amazon.com/images/I/61zdto-I4zL.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 30,
+                "global_position": 30
+            },
+            "asin": "B0BT6TM4F4",
+            "price": {
+                "discounted": false,
+                "current_price": 32,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 10,
+                "rating": 4.2
+            },
+            "url": "https://www.amazon.com/dp/B0BT6TM4F4",
+            "score": "42.00",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "PUMA Mens Redon Bungee Lace Up Sneakers Casual Shoes Casual - White",
+            "thumbnail": "https://m.media-amazon.com/images/I/51H9ZvrCsPL.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 31,
+                "global_position": 31
+            },
+            "asin": "B09S2B7WH1",
+            "price": {
+                "discounted": true,
+                "current_price": 29.95,
+                "currency": "USD",
+                "before_price": 60,
+                "savings_amount": 30.05,
+                "savings_percent": 50.08
+            },
+            "reviews": {
+                "total_reviews": 16,
+                "rating": 4.7
+            },
+            "url": "https://www.amazon.com/dp/B09S2B7WH1",
+            "score": "75.20",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "PUMA Unisex-Child Twitch Runner Disc Sneaker",
+            "thumbnail": "https://m.media-amazon.com/images/I/71Udrgr9x0L.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 32,
+                "global_position": 32
+            },
+            "asin": "B0747H714P",
+            "price": {
+                "discounted": true,
+                "current_price": 14.72,
+                "currency": "USD",
+                "before_price": 24,
+                "savings_amount": 9.28,
+                "savings_percent": 38.67
+            },
+            "reviews": {
+                "total_reviews": 2641,
+                "rating": 4.6
+            },
+            "url": "https://www.amazon.com/dp/B0747H714P",
+            "score": "12148.60",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "PUMA Men's Evercat Icon Snapback Cap",
+            "thumbnail": "https://m.media-amazon.com/images/I/8127FCYboBS.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 33,
+                "global_position": 33
+            },
+            "asin": "B07FHB7R4C",
+            "price": {
+                "discounted": true,
+                "current_price": 29.95,
+                "currency": "USD",
+                "before_price": 70,
+                "savings_amount": 40.05,
+                "savings_percent": 57.21
+            },
+            "reviews": {
+                "total_reviews": 1714,
+                "rating": 4.2
+            },
+            "url": "https://www.amazon.com/dp/B07FHB7R4C",
+            "score": "7198.80",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "PUMA Unisex-Adult Pacer Next Cage GK Sneaker",
+            "thumbnail": "https://m.media-amazon.com/images/I/71R2amW+RbL.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 34,
+                "global_position": 34
+            },
+            "asin": "B08VCBHSPF",
+            "price": {
+                "discounted": false,
+                "current_price": 5.99,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 27,
+                "rating": 4.5
+            },
+            "url": "https://www.amazon.com/dp/B08VCBHSPF",
+            "score": "121.50",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "Pumas: Legends of the Ice Mountains",
+            "thumbnail": "https://m.media-amazon.com/images/I/71oxxwceOEL.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 35,
+                "global_position": 35
+            },
+            "asin": "B09T1YHGVF",
+            "price": {
+                "discounted": true,
+                "current_price": 39.95,
+                "currency": "USD",
+                "before_price": 65,
+                "savings_amount": 25.05,
+                "savings_percent": 38.54
+            },
+            "reviews": {
+                "total_reviews": 345,
+                "rating": 4.6
+            },
+            "url": "https://www.amazon.com/dp/B09T1YHGVF",
+            "score": "1587.00",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "PUMA Women's Softride Sophia Slip on Running Shoe",
+            "thumbnail": "https://m.media-amazon.com/images/I/71ELSt+R3CL.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 36,
+                "global_position": 36
+            },
+            "asin": "B08L5KVCZ2",
+            "price": {
+                "discounted": false,
+                "current_price": 17.33,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 10749,
+                "rating": 4.7
+            },
+            "url": "https://www.amazon.com/dp/B08L5KVCZ2",
+            "score": "50520.30",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "PUMA Men's 6 Pack Quarter Crew Socks",
+            "thumbnail": "https://m.media-amazon.com/images/I/91YvvyavqcL.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 37,
+                "global_position": 37
+            },
+            "asin": "B0914W2VMN",
+            "price": {
+                "discounted": true,
+                "current_price": 27,
+                "currency": "USD",
+                "before_price": 45,
+                "savings_amount": 18,
+                "savings_percent": 40
+            },
+            "reviews": {
+                "total_reviews": 318,
+                "rating": 4.5
+            },
+            "url": "https://www.amazon.com/dp/B0914W2VMN",
+            "score": "1431.00",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "PUMA Men's Essentials Sweatpants",
+            "thumbnail": "https://m.media-amazon.com/images/I/71CMAg7AOAS.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 38,
+                "global_position": 38
+            },
+            "asin": "B078FLG341",
+            "price": {
+                "discounted": true,
+                "current_price": 39.95,
+                "currency": "USD",
+                "before_price": 70,
+                "savings_amount": 30.05,
+                "savings_percent": 42.93
+            },
+            "reviews": {
+                "total_reviews": 1640,
+                "rating": 4.3
+            },
+            "url": "https://www.amazon.com/dp/B078FLG341",
+            "score": "7052.00",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "PUMA Men's California Casual",
+            "thumbnail": "https://m.media-amazon.com/images/I/51xOYfGXfZL.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 39,
+                "global_position": 39
+            },
+            "asin": "B07MTHZ9KJ",
+            "price": {
+                "discounted": false,
+                "current_price": 29.95,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 530,
+                "rating": 4.5
+            },
+            "url": "https://www.amazon.com/dp/B07MTHZ9KJ",
+            "score": "2385.00",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "PUMA Select Men's Cell Alien OG Sneakers",
+            "thumbnail": "https://m.media-amazon.com/images/I/61-73kXG8QL.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 40,
+                "global_position": 40
+            },
+            "asin": "B00GOMDIOI",
+            "price": {
+                "discounted": false,
+                "current_price": 17.5,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 36149,
+                "rating": 4.7
+            },
+            "url": "https://www.amazon.com/dp/B00GOMDIOI",
+            "score": "169900.30",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "PUMA Women's 6 Pack Runner Socks",
+            "thumbnail": "https://m.media-amazon.com/images/I/81br01vfOxL.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 41,
+                "global_position": 41
+            },
+            "asin": "B097LWCLWF",
+            "price": {
+                "discounted": false,
+                "current_price": 77.85,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 916,
+                "rating": 4.4
+            },
+            "url": "https://www.amazon.com/dp/B097LWCLWF",
+            "score": "4030.40",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "PUMA Men's Future Rider Sneaker",
+            "thumbnail": "https://m.media-amazon.com/images/I/71uw+0euWuL.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 42,
+                "global_position": 42
+            },
+            "asin": "B09V11ZQPD",
+            "price": {
+                "discounted": true,
+                "current_price": 39.95,
+                "currency": "USD",
+                "before_price": 100,
+                "savings_amount": 60.05,
+                "savings_percent": 60.05
+            },
+            "reviews": {
+                "total_reviews": 80,
+                "rating": 4.6
+            },
+            "url": "https://www.amazon.com/dp/B09V11ZQPD",
+            "score": "368.00",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "PUMA Womens Mayze I Am Determined Lifestyle Sneakers Shoes",
+            "thumbnail": "https://m.media-amazon.com/images/I/61D1yWsqk1L.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 43,
+                "global_position": 43
+            },
+            "asin": "B09SBR3XK4",
+            "price": {
+                "discounted": false,
+                "current_price": 26.88,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 572,
+                "rating": 4.7
+            },
+            "url": "https://www.amazon.com/dp/B09SBR3XK4",
+            "score": "2688.40",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "Puma Men's No Show Socks - 10 Pairs",
+            "thumbnail": "https://m.media-amazon.com/images/I/512lkKyYJkL.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 44,
+                "global_position": 44
+            },
+            "asin": "B0BG6GV96Y",
+            "price": {
+                "discounted": false,
+                "current_price": 29.95,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 32,
+                "rating": 4.4
+            },
+            "url": "https://www.amazon.com/dp/B0BG6GV96Y",
+            "score": "140.80",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "PUMA mens Ca Pro Embroidery Fs Platform Sneakers",
+            "thumbnail": "https://m.media-amazon.com/images/I/41usFFTK+lL.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 45,
+                "global_position": 45
+            },
+            "asin": "B07QRC1ZZN",
+            "price": {
+                "discounted": true,
+                "current_price": 46.99,
+                "currency": "USD",
+                "before_price": 70,
+                "savings_amount": 23.01,
+                "savings_percent": 32.87
+            },
+            "reviews": {
+                "total_reviews": 4344,
+                "rating": 4.3
+            },
+            "url": "https://www.amazon.com/dp/B07QRC1ZZN",
+            "score": "18679.20",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "PUMA Unisex-Adult Tazon 6 IRI Wn Sneaker",
+            "thumbnail": "https://m.media-amazon.com/images/I/81Vk0hK8FrL.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 46,
+                "global_position": 46
+            },
+            "asin": "B086WM2D8Z",
+            "price": {
+                "discounted": false,
+                "current_price": 25,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 96,
+                "rating": 4.4
+            },
+            "url": "https://www.amazon.com/dp/B086WM2D8Z",
+            "score": "422.40",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "PUMA Evercat Stretch Fit Cap",
+            "thumbnail": "https://m.media-amazon.com/images/I/81wGhr1c4BL.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 47,
+                "global_position": 47
+            },
+            "asin": "B08WRH441Z",
+            "price": {
+                "discounted": true,
+                "current_price": 39.55,
+                "currency": "USD",
+                "before_price": 50,
+                "savings_amount": 10.45,
+                "savings_percent": 20.9
+            },
+            "reviews": {
+                "total_reviews": 867,
+                "rating": 4.7
+            },
+            "url": "https://www.amazon.com/dp/B08WRH441Z",
+            "score": "4074.90",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "PUMA Men's Essentials Big Logo Fleece Hoodie",
+            "thumbnail": "https://m.media-amazon.com/images/I/41HWjhCusML.AC_UL320.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 48,
+                "global_position": 48
+            },
+            "asin": "B08WBSTBS9",
+            "price": {
+                "discounted": true,
+                "current_price": 15,
+                "currency": "USD",
+                "before_price": 28,
+                "savings_amount": 13,
+                "savings_percent": 46.43
+            },
+            "reviews": {
+                "total_reviews": 986,
+                "rating": 4.5
+            },
+            "url": "https://www.amazon.com/dp/B08WBSTBS9",
+            "score": "4437.00",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "PUMA Men’s 3 Pack Performance Boxer Briefs",
+            "thumbnail": "https://m.media-amazon.com/images/I/813e1RtPi0L.AC_UL320.jpg"
+        }
+    ]
+}
