@@ -1,0 +1,182 @@
+{
+    "total_reviews": 2839,
+    "stars_stat": {
+      "1": "8%",
+      "2": "2%",
+      "3": "4%",
+      "4": "11%",
+      "5": "75%"
+    },
+    "result": [
+      {
+        "id": "R1H5FIK80ZYXSC",
+        "asin": {
+          "original": "B08H8VZ6PV",
+          "variant": "B08H8VZ6PV"
+        },
+        "review_data": "Reviewed in the United States 🇺🇸 on April 24, 2023",
+        "date": {
+          "date": "April 24, 2023",
+          "unix": 1682301600
+        },
+        "name": "Happo",
+        "rating": 2,
+        "title": "Second Pixel that broke after 2 years - Terrible customer service",
+        "review": "Just broke completely with no reason after 2 years, after my first Pixel broke the same way, after 2 years.Before purchasing it, I believe Google Support told me this model would have a better life, so I naively purchased this newer model.2 years later, here we go again, broken again, I have to spend all this time I don't have to discuss the matter, find a new phone, reinstall everything, and grieve my lost data. No mention to the financial waste for me, and ecological waste for the planet.I reached out to the support team who seemed comprehensive at first. After they failed at helping fixing the problem, they advised me to try to get it repaired somewhere since my warranty expired (I guess phone warranties are so short nowadays as brands are totally aware they sell you crap), or to get a new phone. They gave me a 20% coupon, but I reached out again as I was still concerned about getting one of their phone after the 2 phones I got failed me so bad.The person advised me to get a Pixel 7 \"which will have an improved battery and life\". With the current sale + my coupon, the price would be ~360$. \"Not bad\" he said.Except that when I added the product to the cart and applied the coupon, the sale was removed so the final price was MORE expensive than when I didn't apply a coupon at all.I reached out AGAIN to the support team who after a while told me to contact another team. I contacted this other team today, I have enjoy to waste time with people who are not helpful at all, and a robot like person kept saying \"Sorry - discounts are not stackable\" showing no sign of concerns as the previous team lied to push a customer to purchase a product, and finally shut the conversation after a while.I didn't even ASKED for a coupon the first time, so why a company would send an unusable coupon at the first place, valid to purchase phones only except that if you use it you'll pay a more expensive price than anywhere else?! it's insulting and just shows the lack of consideration of a company for their customers.",
+        "verified_purchase": true
+      },
+      {
+        "id": "R3JG3ZB48MXAF1",
+        "asin": {
+          "original": "B08H8VZ6PV",
+          "variant": "B08H8VZ6PV"
+        },
+        "review_data": "Reviewed in the United States 🇺🇸 on April 4, 2023",
+        "date": {
+          "date": "April 4, 2023",
+          "unix": 1680573600
+        },
+        "name": "Alice",
+        "rating": 1,
+        "title": "Bought in October, stopped working in April",
+        "review": "The phone stopped turning on after a couple of months. Maybe I missed the memo on how long phones last but this is kind of insane. I paid a couple hundred to have to replace it months later? Nevermind the massive inconvenience.Don't buy, it won't last.",
+        "verified_purchase": true
+      },
+      {
+        "id": "R19K0XQ4TYWZL4",
+        "asin": {
+          "original": "B08H8VZ6PV",
+          "variant": "B08H8VZ6PV"
+        },
+        "review_data": "Reviewed in the United States 🇺🇸 on February 13, 2023",
+        "date": {
+          "date": "February 13, 2023",
+          "unix": 1676253600
+        },
+        "name": "Patrick N. Fennell",
+        "rating": 1,
+        "title": "It is a common issue for the camera on this phone to stop working.",
+        "review": "It is a common issue for the camera on this phone to stop working. Since this is an older model, the warranty with Google has expired.",
+        "verified_purchase": true
+      },
+      {
+        "id": "R3FUETCDYSLLEI",
+        "asin": {
+          "original": "B08H8VZ6PV",
+          "variant": "B08H8VZ6PV"
+        },
+        "review_data": "Reviewed in the United States 🇺🇸 on February 8, 2023",
+        "date": {
+          "date": "February 8, 2023",
+          "unix": 1675821600
+        },
+        "name": "Cynthia A.",
+        "rating": 1,
+        "title": "Very very disappointed",
+        "review": "I have to say I really like the phone. BUT when I tried to get service I could not becausethe unlocked phone I bought from AmazonIS LOCKED and could not be unlocked according to their tech department. Only recourseis to return it.VERY DISAPOINTED. It was the perfect size for my hand. I don'tunderstandhow they did not know it was locked.Seems like a lot of things I have boughtlately do not match the descriptionon Amazon and land up getting returned. The convience of Amazon is turning intoa real hassle.",
+        "verified_purchase": true
+      },
+      {
+        "id": "R28I7AQF4SZHAM",
+        "asin": {
+          "original": "B08H8VZ6PV",
+          "variant": "B08H8VZ6PV"
+        },
+        "review_data": "Reviewed in the United States 🇺🇸 on January 25, 2023",
+        "date": {
+          "date": "January 25, 2023",
+          "unix": 1674612000
+        },
+        "name": "ST01",
+        "rating": 1,
+        "title": "Don't buy!",
+        "review": "The phone was new and the battery stopped charging after 2 months. Had another of this type of phone before and it lasted 5 months.",
+        "verified_purchase": true
+      },
+      {
+        "id": "R149S45EUUGOMH",
+        "asin": {
+          "original": "B08H8VZ6PV",
+          "variant": "B08H8VZ6PV"
+        },
+        "review_data": "Reviewed in the United States 🇺🇸 on January 5, 2023",
+        "date": {
+          "date": "January 5, 2023",
+          "unix": 1672884000
+        },
+        "name": "Søren Heissel",
+        "rating": 1,
+        "title": "Terrible phone filled with bugs and bad customer support",
+        "review": "After two months the camera stopped working. It was sent in for repair multiple times and the camera kept having issues. It was finally replaced with a new phone that worked well for a few months, but that one is now unexpectedly shutting off all the time. Google customer support has been difficult to work with. I would not recommend buying this phone",
+        "verified_purchase": true
+      },
+      {
+        "id": "R3GE41VV6YHIPW",
+        "asin": {
+          "original": "B08H8VZ6PV",
+          "variant": "B08H8VZ6PV"
+        },
+        "review_data": "Reviewed in the United States 🇺🇸 on January 4, 2023",
+        "date": {
+          "date": "January 4, 2023",
+          "unix": 1672797600
+        },
+        "name": "Sara M",
+        "rating": 5,
+        "title": "Very happy",
+        "review": "I needed a new phone. My iPhone had no more storage,the home button wasn't working, and typing was sometimes messed up. I was nervous about the size of this new phone, but although it's 1.5 lbs more and a bit wider and longer, it's still manageable. I was able to easily add all the apps I needed and adjust all the settings. The finger recognition is excellent so far. I'm excited about the new SOS feature (but I'm guessing all new phones have it now). Battery life doesn't seem great, and I wish the charging cord included was longer, but I'll deal with it. The only real frustration is that all my whatsapp data got lost when transferring to this phone: conversations, pictures and videos. 😕😩.In general, though, the phone is easy to use and I'm happy with my choice, so far.",
+        "verified_purchase": true
+      },
+      {
+        "id": "R3FFXMQIKTORUL",
+        "asin": {
+          "original": "B08H8VZ6PV",
+          "variant": "B08H8VZ6PV"
+        },
+        "review_data": "Reviewed in the United States 🇺🇸 on December 21, 2022",
+        "date": {
+          "date": "December 21, 2022",
+          "unix": 1671588000
+        },
+        "name": "Patricia Hartmann",
+        "rating": 3,
+        "title": "The bells and whistles",
+        "review": "The Pixel is a lot like the Samsung Galaxy, but better priced and a bit smaller for the pockets, you know.I wish I knew that new apps wereIntroducing themselves ALL THE TIME. And it will is a pain to get rid of them.Now there is a Chat app I can't get off the screen.There is a lot of junk on the phone that I do not need. And the predictive text is now using pictures instead of the word. Wish I had known...",
+        "verified_purchase": true
+      },
+      {
+        "id": "R2FMTTNY52KQUR",
+        "asin": {
+          "original": "B08H8VZ6PV",
+          "variant": "B08H9TD5GC"
+        },
+        "review_data": "Reviewed in the United States 🇺🇸 on December 18, 2022",
+        "date": {
+          "date": "December 18, 2022",
+          "unix": 1671328800
+        },
+        "name": "Alejandro",
+        "rating": 1,
+        "title": "Stopped working very soon and no warranty covered",
+        "review": "It took one year and 4 months to start malfunctioning (rear camera , phone calls, and flashlight. To my experience, this issue starts to happen after three or 4 years. This device was designed with too early planned obsolescence. Do not buy this product. I will not buy anything from Google again.",
+        "verified_purchase": true
+      },
+      {
+        "id": "RIDNNHLDXGJLZ",
+        "asin": {
+          "original": "B08H8VZ6PV",
+          "variant": "B08H8VZ6PV"
+        },
+        "review_data": "Reviewed in the United States 🇺🇸 on November 13, 2022",
+        "date": {
+          "date": "November 13, 2022",
+          "unix": 1668304800
+        },
+        "name": "Kusum ",
+        "rating": 5,
+        "title": "Love it",
+        "review": "I like this phone. Using it for long time and it is worth buying.",
+        "verified_purchase": true
+      }
+    ]
+  }

@@ -83,10 +83,10 @@
                     "position": 1,
                     "seller": " PriceWhack ",
                     "url": "https://www.amazon.comundefined",
-                    "price": {
+                    "Price": {
                         "symbol": "$",
                         "currency": "USD",
-                        "current_price": null
+                        "current_Price": null
                     }
                 }
             ]
